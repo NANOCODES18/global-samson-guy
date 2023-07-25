@@ -5,7 +5,7 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title> MilesFx USER Dashboard </title>
+    <title> USER Dashboard </title>
     <meta name="theme-color" content="#282744">
     <!-- plugins:css -->
     <link rel="stylesheet" href="{{asset('dashb/assets/vendors/flag-icon-css/css/flag-icon.min.css')}}">
@@ -29,7 +29,8 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 <link rel='stylesheet' href='https://fonts.googleapis.com/icon?family=Material+Icons'><link rel="stylesheet" href="./style.css">
 
-<script src="//code.tidio.co/trdhqnepy4eiuju3mg8aftufwtsqzyge.js" async></script>
+<script src="//code.jivosite.com/widget/BZyoHrU7Q8" async></script>
+
 
 
 <style>

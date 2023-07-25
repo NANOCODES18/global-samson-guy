@@ -2,26 +2,28 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<!-- Mirrored from 127.0.0.1:8000/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:21:51 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:20:05 GMT -->
 <!-- Added by HTTrack --><meta content="text/html;charset=utf-8" http-equiv="content-type"/><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
-<link crossorigin="anonymous" href="https//:maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
 <title>
-   globalbitfare : Home
+   Global Bitfare : Home
   </title>
+  <script src="//code.jivosite.com/widget/BZyoHrU7Q8" async></script>
+
 <link href="static/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
 <link href="https://fonts.googleapis.com/" rel="preconnect">
 <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link crossorigin="anonymous" href="{{asset('../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css')}}" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" referrerpolicy="no-referrer" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" referrerpolicy="no-referrer" rel="stylesheet"/>
 <!-- Fontawesome CSS -->
 <link href="{{asset('static/temp/css/fontawesome-all.min.css')}}" rel="stylesheet">
-<script async="" src="{{asset('../code.tidio.co/6qv2y6recg5zixpi5fx3wntcq0d7wkoa.js')}}"></script>
 <link href="{{asset('static/css/style.css')}}" rel="stylesheet"/>
-<script src="../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit" type="text/javascript">
+<script src="translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit" type="text/javascript">
 </script>
+
 </link>
 </link>
 </head>
@@ -29,8 +31,8 @@
 <section class="homefront">
 <nav class="navbar navbar-expand-lg change" id="navbar">
 <a class="navbar-brand" href='{{route("index")}}'>
-<img alt="" height="42" src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html" style="object-fit: contain;" width="220"/>
-<!-- globalbitfare -->
+<img alt="" height="42" src="logo.png" style="object-fit: contain;" width="220"/>
+<!-- Global Bitfare -->
 </a>
 <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
 <span class="navbar-toggler-icon">
@@ -107,7 +109,7 @@
 </div>
 <div class="text">
 <h1 style="text-align:center">
-     globalbitfare
+     Global Bitfare
     </h1>
 <br/>
 <br/>
@@ -122,27 +124,66 @@
     </a>
 </div>
 </section>
-<div class="future__content">
-<ul class="future">
-<li class="feature__heading">
-     The Future of
+<section class="what__we--do">
+<!-- <div> -->
+<div class="welcome">
+<span>
+     Welcome To Global Bitfare
+    </span>
+<h3>
+     What We Do
+    </h3>
+<p>
+     We are an Financial Platform, using Modern technology to drive, secure
      <br/>
-     Investment is Here
-    </li>
-<li class="feature__subheading">
-     Enjoy new eco-friendly investment
+     credit facilities and manage
+        portfolios for our clients. We take our
      <br/>
-     btechnologies and get
-     <br/>
-     amazing benefits
-    </li>
-<li class="start__now">
-<a href='{{route("index")}}'>
-      Get Started
-     </a>
-</li>
-</ul>
+     client's financial dreams and make them a reality.
+    </p>
 </div>
+<div class="services">
+<div class="feature-box">
+<div class="feature-box-inner">
+<!-- <i class="icon-layers font-size50 md-font-size46 sm-font-size40 xs-font-size38"></i> -->
+<h4>
+       Receive money with zero fees.
+      </h4>
+<p>
+       With a single account you can have different wallets for different currencies and recieve funds in any
+            wallet without charges
+      </p>
+</div>
+</div>
+<div class="feature-box">
+<div class="feature-box-inner">
+<!-- <i class="icon-genius font-size50 md-font-size46 sm-font-size40 xs-font-size38"></i> -->
+<h4>
+       Loan Application
+      </h4>
+<p>
+       We provide credit facilities to finance your project and turn your dream into reality.
+       <br/>
+       With us
+            project funding is not a problem
+      </p>
+</div>
+</div>
+<div class="feature-box">
+<div class="feature-box-inner">
+<!-- <i class="icon-hotairballoon font-size50 md-font-size46 sm-font-size40 xs-font-size38"></i> -->
+<h4>
+       Digital Solutions
+      </h4>
+<p>
+       Easily manage your account, make transaction, view transaction records, exchange at the best rate from
+            your comfort using our digital solutions.
+      </p>
+</div>
+</div>
+</div>
+<!-- </div> -->
+</section>
 <section id="second1">
 <div class="container">
 <div class="row">
@@ -750,7 +791,7 @@
 <h1 id="demo" style="color: green;font-size: 70px;font-weight: 800;">
 </h1>
 <h6>
-        TRADES OPENED ON globalbitfare
+        TRADES OPENED ON Global Bitfare
        </h6>
 <script>
         let interval = setInterval(function () {
@@ -888,147 +929,13 @@
 </div>
 </div>
 </section>
-<section class="crypto__deposits">
-<div class="crypto__services--heading">
-<h2>
-     services
-     <br/>
-     That We
-     <br/>
-     Continue
-     <br/>
-     To
-     <br/>
-     Improve
-    </h2>
-<p>
-     To receive only high-quality
-     <br/>
-     service from our Platform,
-     <br/>
-     we constantly continue to
-     <br/>
-     improve our
-        platform. Join us
-     <br/>
-     and start earning now.
-    </p>
-</div>
-<div class="crypto__services">
-<!-- <div class="left__section"> -->
-<div class="security">
-<img alt="" class="service__img" src="{{asset('static/images/service1.svg')}}"/>
-<div>
-<h4>
-       Security and
-       <br/>
-       privacy
-      </h4>
-<p>
-       We appreciate the
-       <br/>
-       personal and financial
-       <br/>
-       data of our clients. For
-       <br/>
-       this, we use several
-            levels
-       <br/>
-       of
-            protection so
-            that your
-       <br/>
-       data is always safe.
-      </p>
-</div>
-</div>
-<div class="deposit">
-<img alt="" class="service__img" src="{{asset('static/images/service3.svg')}}"/>
-<div>
-<h4>
-       Crypto Deposits
-      </h4>
-<p>
-       Our systemis built to
-       <br/>
-       enable crytpto deposits
-       <br/>
-       with the lowest possible
-       <br/>
-       cost that enables
-       <br/>
-       customers to
-            deposit and withdraw
-       <br/>
-       to there account
-       <br/>
-       through any crypto
-       <br/>
-       currency of there choice
-      </p>
-</div>
-</div>
-<!-- </div> -->
-<!-- <div class="right__section"> -->
-<div class="loan__application">
-<img alt="" class="service__img" src="{{asset('static/images/service4.svg')}}"/>
-<div>
-<h4>
-       Loan Application
-      </h4>
-<p>
-       With our credit facilities,
-       <br/>
-       With longer-tenure credit,
-       <br/>
-       flexible payment plan and
-       <br/>
-       lower
-            equity, investment
-            with
-       <br/>
-       us
-            is a rewarding
-       <br/>
-       relationship that enables
-       <br/>
-       you to enjoy life.
-      </p>
-</div>
-</div>
-<div class="great__service">
-<img alt="" class="service__img" src="{{asset('static/images/service2.svg')}}"/>
-<div>
-<h4>
-       Great service
-      </h4>
-<p>
-       We make every effort to
-       <br/>
-       make it convenient for
-       <br/>
-       you to use our services. If
-       <br/>
-       you have any
-            questions or
-       <br/>
-       wishes,
-            write to our email
-       <br/>
-       address
-      </p>
-</div>
-</div>
-<!-- </div> -->
-</div>
-</section>
 <section id="third">
 <div class="container">
 <h2>
      the global leader of social trading
     </h2>
 <h6>
-     Discover why millions trade with globalbitfare
+     Discover why millions trade with Global Bitfare
     </h6>
 <div class="row">
 <div class="col-md-4">
@@ -1064,107 +971,33 @@
 </div>
 </div>
 </section>
-<section class="banking__platform">
-<div class="platform">
-<div class="platform__left">
-<div class="platform__heading">
+<section class="about">
+<div class="about__item about__text">
 <h1>
-       Reliable investment platform
-      </h1>
-<h2>
-       Maximum Stablility
-      </h2>
-</div>
+     ABOUT Global Bitfare
+    </h1>
+<div class="about__text--sub">
 <p>
-      Digital currency is not legal tender, is not
-      <br/>
-      backed by the government, and digital currency
-      <br/>
-      accounts and
-          value
-          balances on Universal
-      <br/>
-      Wallet Pay are not subject to Federal Deposit
-      <br/>
-      Insurance Corporation or
-          Securities
-          Investor
-      <br/>
-      Protection Corporation protections. Universal
-      <br/>
-      Wallet Pay is not a bank and does not offer
-      <br/>
-      fiduciary
-          services.
-          The
-          interest rates reflected
-      <br/>
-      on this page are as of the current date and
-      <br/>
-      time may change at any time,
-          before or
-          after
-      <br/>
-      the account is opened on Universal Wallet Pay.​
+      “Frontier in the fintech space, we have shown the way others now follow.” and have maintained the status of
+          'first' in many dimensions of the Financial space.
+
+          Global Bitfare is a Financial Platform created to help the average person reach her/his finanical dream.
      </p>
-<ul class="support__getstarted">
-<li>
-<a class="get__started" href='{{route("index")}}'>
-        Get Started
-       </a>
-</li>
-<li>
-<a class="support" href='{{route("#")}}'>
-        Support
-       </a>
-</li>
-</ul>
-<div class="qr__scan">
-<img alt="" src="{{asset('static/images/qrcode.png')}}"/>
+<div class="aboutus-text">
+<i class="fas fa-quote-left padding-30px-left xs-padding-20px-left opacity2">
+</i>
+      At Global Bitfare, we take resposibility for investor's success and portfolio performance
+          Founder
+     </div>
 <div>
-<h4>
-        SCAN THE CODE &amp; JOIN
-        <br/>
-        OUR TELEGRAM
-       </h4>
-<p>
-        Get the latest news
-        <br/>
-        about our service
-        <br/>
-        and the world of cryptocurrencies
-       </p>
+      Global Bitfare builds and manages portfolios tailored to the investor's financial needs, and deploys
+          technology with expertise to ensure these finanical goals are met.
+     </div>
 </div>
 </div>
-</div>
-<div class="platform__right">
-<img alt="" class="right__image" src="{{asset('static/images/coin_hero.png')}}"/>
-<div>
-<p style="font-weight: 500;">
-       Make
-      </p>
-<p>
-       Deposit
-      </p>
-</div>
-<div>
-<p style="font-weight: 500;">
-       Access
-      </p>
-<p>
-       Credit Facilities
-      </p>
-</div>
-<div>
-<p style="font-weight: 500;">
-       Make
-      </p>
-<p>
-       withdrawals
-      </p>
-</div>
-</div>
-</div>
+<video controls="" height="" width="">
+<source src="static/site-images/bg-chc.mp4" type="video/mp4"/>
+</video>
 </section>
 <section id="fourth">
 <div class="container">
@@ -1243,9 +1076,8 @@
 </div>
 </div>
 <div class="row align-items-center" style="margin-top: 70px;">
-<div class="offset-md-1 col-md-8">
-<video autoplay="" controls="" height="500" src="static/timeline.mp4" width="100%">
-</video>
+<div class="offset-md-1 col-md-6 align-middle">
+<video controls="" height="100%" src="static/companyvideo.mp4" width="100%"></video>
 </div>
 <div class="col-md-4 align-middle">
 <!-- <a download="" href="brochure.pdf">
@@ -1292,7 +1124,7 @@
        </h3>
 <p style="font-size: 25px;">
 <q>
-         globalbitfare is a fantastic trading platform, both from an ease of use and
+         Global Bitfare is a fantastic trading platform, both from an ease of use and
                 technical perspective.
         </q>
 </p>
@@ -1314,7 +1146,7 @@
        </h3>
 <p style="font-size: 25px;">
 <q>
-         I am very satisfied with the services globalbitfare platform provides
+         I am very satisfied with the services Global Bitfare platform provides
         </q>
 </p>
 </div>
@@ -1468,6 +1300,153 @@
 </div>
 </div>
 </section>
+<section class="join">
+<section class="how__to--join">
+<div class="how__to">
+<span>
+      How To Join
+     </span>
+<h3>
+      Investor Onboarding Process
+     </h3>
+<p>
+      Here's a description of how you can join us at Global Bitfare. Our work process
+      <br/>
+      is simple and
+          direct,
+          and laced with expertise.
+     </p>
+</div>
+</section>
+<div class="" style="position:relative;bottom:15rem">
+<ul class="investor__descrip">
+<li class="register__btn" style="border-bottom: 1px solid #032148;">
+      Register
+     </li>
+<li class="select__btn">
+      Select
+     </li>
+<li class="fund__btn">
+      Fund
+     </li>
+<li class="withdraw__btn">
+      Withdraw
+     </li>
+</ul>
+<div id="register">
+<img alt="" height="40%" src="{{asset('static/images/content.png')}}" width="40%"/>
+<ul class="register__list">
+<h2>
+        Register A New Account
+       </h2>
+<p>
+        To join us at Global Bitfare, you first have to register for a new
+        <br/>
+        account. To register, click the
+              SIGNUP button at the top of the page
+        <br/>
+        and fill the simple form.
+       </p>
+<li>
+        Free to Register
+       </li>
+<li>
+        Referral Bonus
+       </li>
+<li>
+        Free Advisory Call
+       </li>
+<li>
+        No Country Restriction
+       </li>
+<li>
+        Easy Registration Steps
+       </li>
+</ul>
+</div>
+<div id="select">
+<ul class="select__list">
+<h2>
+       Select Financial Aid PLAN
+      </h2>
+<p>
+       After complete registration of new account, next is to select the Financial plan that suits your budget and
+              financial goals. Our plans are distributed to adapt to your needs.
+      </p>
+<li>
+       Adaptive Plan
+      </li>
+<li>
+       Low interest credits
+      </li>
+<li>
+       Match Plans to your Goals
+      </li>
+<li>
+       Variety of Options
+      </li>
+<li>
+       Plans are Flexible
+      </li>
+</ul>
+<img alt="" height="40%" src="{{asset('static/images/plans.jpg')}}" width="40%"/>
+</div>
+<div id="fund">
+<img alt="" height="40%" src="{{asset('static/images/fund.jpg')}}" width="40%"/>
+<ul class="fund__list">
+<h2>
+        Fund Your Account
+       </h2>
+<p>
+        After selecting your preferred Plan, next thing to do is fund your account. You can fund easy and fast using
+              the funding option available to your region.
+       </p>
+<li>
+        Direct funding
+       </li>
+<li>
+        Fast funding reflection
+       </li>
+<li>
+        Region-specific options
+       </li>
+<li>
+        Zero cost of funding
+       </li>
+<li>
+        Secure electronic channels
+       </li>
+</ul>
+</div>
+<div id="withdraw">
+<ul class="withdraw__list">
+<h2>
+       Withdraw Profits
+      </h2>
+<p>
+       As soon as your Financial matures, your profit becomes available in your wallet, and can be withdrawn to your
+              local account, in the currency available in your region.
+      </p>
+<li>
+       Instant Withdrawal
+      </li>
+<li>
+       Zero withdrawal cost
+      </li>
+<li>
+       Withdraw to local currency
+      </li>
+<li>
+       Profits reflect in Wallet
+      </li>
+<li>
+       Easy reFinancial from profits
+      </li>
+</ul>
+<img alt="" height="40%" src="{{asset('static/images/withdraw.jpg')}}" width="40%"/>
+</div>
+</div>
+</section>
 <section id="seventh">
 <div class="container">
 <div class="row text-center row1">
@@ -1514,36 +1493,36 @@
 <a href='{{route("faq")}}'>
         FAQ
        </a>
-<a href='{{route("index")}}'>
+<a href='{{route("login")}}'>
         Login
        </a>
-<a href='{{route("index")}}'>
+<a href='{{route("register")}}'>
         Sign Up
        </a>
 </div>
 </div>
 <div class="col-md-4">
-<img alt="website logo" height="40" src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html" width="100"/>
+<img alt="website logo" height="40" src="logo.png" width="100"/>
 <h3>
 </h3>
 <div class="contacts" tyle="text-decoration: none;">
 <p>
           Phone: <br/>
-<a href='{{route("tel:+")}}' style="text-decoration: none; color: white;">None</a>
+<a href="tel:+" style="text-decoration: none; color: white;">None</a>
 </p>
 <p>
           
-           Email: <br/> <a href='{{route("mailto:support@globalbitfare")}}' style="text-decoration: none; color: white;">support@globalbitfare.com</a>
+           Email: <br/> <a href="mailto:support@Globalbitfares" style="text-decoration: none; color: white;">support@globalbitfare.co</a>
 </p>
 <p>
           
           
-            Address: <br/> United kingdom
+            Address: <br/> support@globalbitfare.co
           
           
         </p>
 <p>
-         Second Address: New Zealand
+         Second Address: support@globalbitfare.co
           
         </p>
 </div>
@@ -1553,14 +1532,81 @@
 </section>
 <div class="container-fluid" id="copyright">
 <p>
-    Copyright © 2023 All Rights Reserved globalbitfare
+    Copyright © 2023 All Rights Reserved Global Bitfare
    </p>
 </div>
-<script crossorigin="anonymous" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" src="{{asset('../code.jquery.com/jquery-3.2.1.slim.min.js')}}">
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+  //  <!-- var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
+  //   (function () {
+  //     var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
+  //     s1.async = true;
+  //     s1.src = 'https://embed.tawk.to/61d87dc7f7cf527e84d0f9d0/1foqqmnhj';
+  //     s1.charset = 'UTF-8';
+  //     s1.setAttribute('crossorigin', '*');
+  //     s0.parentNode.insertBefore(s1, s0); -->
+  //   })();
+
+
+
+    const registerBtn = document.querySelector('.register__btn');
+    const fundBtn = document.querySelector('.fund__btn');
+    const selectBtn = document.querySelector('.select__btn');
+    const withdrawBtn = document.querySelector('.withdraw__btn');
+
+  
+
+    registerBtn.addEventListener('click', function (e) {
+      document.getElementById('register').style.display = "flex";
+      document.getElementById('select').style.display = "none";
+      document.getElementById('fund').style.display = "none";
+      document.getElementById('withdraw').style.display = "none";
+     registerBtn.style.borderColor="#032148";
+     withdrawBtn.style.borderColor="transparent";
+      fundBtn.style.borderColor="transparent";
+      selectBtn.style.borderColor="transparent";
+    })
+    selectBtn.addEventListener('click', function (e) {
+      document.getElementById('select').style.display = "flex";
+      document.getElementById('register').style.display = "none";
+      document.getElementById('fund').style.display = "none";
+      document.getElementById('withdraw').style.display = "none";
+      selectBtn.style.borderColor="#032148";
+      registerBtn.style.borderColor="transparent";
+      fundBtn.style.borderColor="transparent";
+      withdrawBtn.style.borderColor="transparent";
+      
+    })
+    fundBtn.addEventListener('click', function (e) {
+
+      document.getElementById('select').style.display = "none";
+      document.getElementById('register').style.display = "none";
+      document.getElementById('fund').style.display = "flex";
+      document.getElementById('withdraw').style.display = "none";
+      fundBtn.style.borderColor="#032148";
+      selectBtn.style.borderColor="transparent";
+      registerBtn.style.borderColor="transparent";
+      withdrawBtn.style.borderColor="transparent";
+    })
+    withdrawBtn.addEventListener('click', function (e) {
+
+      document.getElementById('select').style.display = "none";
+      document.getElementById('register').style.display = "none";
+      document.getElementById('fund').style.display = "none";
+      document.getElementById('withdraw').style.display = "flex";
+      withdrawBtn.style.borderColor="#032148";
+      fundBtn.style.borderColor="transparent";
+      selectBtn.style.borderColor="transparent";
+      registerBtn.style.borderColor="transparent";
+      
+    })
+  </script>
+<!--End of Tawk.to Script-->
+<script crossorigin="anonymous" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" src="https://code.jquery.com/jquery-3.2.1.slim.min.js">
 </script>
-<script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" src="{{asset('../cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js')}}">
+<script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js">
 </script>
-<script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" src="{{asset('../maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js')}}">
+<script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js">
 </script>
 <script src="{{asset('static/js/script.js')}}">
 </script>
@@ -1570,5 +1616,5 @@
     }
   </script>
 </body>
-<!-- Mirrored from 127.0.0.1:8000/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:22:35 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:24:49 GMT -->
 </html>

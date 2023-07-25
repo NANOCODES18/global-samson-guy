@@ -2,20 +2,22 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<!-- Mirrored from 127.0.0.1:8000/about by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:22:52 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/about by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:29:07 GMT -->
 <!-- Added by HTTrack --><meta content="text/html;charset=utf-8" http-equiv="content-type"/><!-- /Added by HTTrack -->
 <head>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 <meta content="FIDOR" name="author"/>
 <title>
-   globalbitfare
+  Global Bitfare
   </title>
-<link href="../stockaccess.io/apple-touch-icon.html" rel="apple-touch-icon" sizes="180x180"/>
+  <script src="//code.jivosite.com/widget/BZyoHrU7Q8" async></script>
+
+<link href="{{asset('../Globalbitfare.io/apple-touch-icon.png')}}" rel="apple-touch-icon" sizes="180x180"/>
 <!-- <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"> -->
 <link href="static/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-<link href="https://globalbitfare.io/site.webmanifest" rel="manifest">
+<link href="https://Globalbitfare.io/site.webmanifest" rel="manifest">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <!-- <link rel="stylesheet" href="./css2/style.css"> -->
 <link href="{{asset('static/imported-css.css')}}" rel="stylesheet"/>
@@ -71,6 +73,7 @@
 <link href="{{asset('static/css2/fontawesome.css')}}" rel="stylesheet"/>
 <script src="{{asset('static/js/jquery.js')}}">
 </script>
+<script async="" src="http://code.jivosite.com/widget/BZyoHrU7Q8"></script>
 </link>
 </link>
 </head>
@@ -107,14 +110,14 @@
             }
       </style>
 <div id="logo">
-<a class="navbar-brand" href='{{route("index")}}'>
+<a class="navbar-brand" href='{{route("index-2")}}'>
 <span class="logo-default">
-<img src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html"/>
+<img src="logo.png"/>
 </span>
 <span class="logo-dark">
-<img src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html"/>
+<img src="logo.png"/>
 </span>
-<!-- globalbitfare -->
+<!-- Global Bitfare -->
 </a>
 </div>
 <div id="mainMenu-trigger">
@@ -148,7 +151,7 @@
            </a>
 </li>
 <li>
-<a href='{{route("index")}}'>
+<a href='{{route("contact")}}'>
             CONTACT US
            </a>
 </li>
@@ -173,12 +176,12 @@
            </a>
 <ul class="dropdown-menu">
 <li>
-<a class="dropdown-item" href='{{route("index")}}'>
+<a class="dropdown-item" href='{{route("register")}}'>
               SIGN UP
              </a>
 </li>
 <li>
-<a class="dropdown-item" href='{{route("index")}}'>
+<a class="dropdown-item" href='{{route("login")}}'>
               LOGIN
              </a>
 </li>
@@ -262,16 +265,16 @@
 </div>
 <div class="heading-text heading-line text-center">
 <p data-animate="zoomIn" style="color: #fff !important;">
-       globalbitfare
+       Global Bitfare
       </p>
 </div>
 <div class="row">
 <div class="col-lg-12" data-animate="bounceInDown" style="max-width: 970px;margin: auto;">
 <h2 class="tup text-center" style="font-size: 23px; margin-bottom: 0; color: #fff !important;">
-        WHY CHOOSE globalbitfare?
+        WHY CHOOSE Global Bitfare?
        </h2>
 <p class="text-center" style="color: #fff !important;">
-        In globalbitfare,we securely Manage  investors stock as an asset management company that we are by combining our deep knowledge of local markets with the power of coordinated global oversight to derive better investment outcomes for our customers.
+        In Global Bitfare,we securely Manage  investors stock as an asset management company that we are by combining our deep knowledge of local markets with the power of coordinated global oversight to derive better investment outcomes for our customers.
                             Our services are transparent, profitable and reliable due to our adherence to the strictest regulatory standards.
                            The transparency, effectiveness and reliability of our services is apparent in the testimonies and feedbacks of our clients.
        </p>
@@ -415,7 +418,7 @@
 </div>
 <div class="heading-text heading-line text-center">
 <p data-animate="zoomIn" style="color: #fff !important;">
-         globalbitfare
+         Global Bitfare
         </p>
 </div>
 <h2 class="tup text-center" style="font-size: 23px; margin-bottom: 0; color: #fff !important;">
@@ -464,7 +467,7 @@
 <p style="color: #fff !important">
          We’re proud to be an asset management company whose
                                 culture is driven by strong values
-                                and a long-term vision. At globalbitfare Group Investments, our vision, mission and
+                                and a long-term vision. At Global Bitfare Group Investments, our vision, mission and
                                 core values serve as the catalyst in our relations with our clients, employees,
                                 shareholders and in the communities in which we live and work. They are our guiding
                                 compass in our business each day.
@@ -545,7 +548,7 @@
 <section class="section-video text-light d-flex-center" data-bg-video="static/site-images/vid.mp4" style="height: 80vh_; min-height: 400px; object-fit: cover;">
 <div class="html5vid video-loaded" id="video-rpptn">
 <video autoplay="" loop="" muted="true" playsinline="" poster="site-images/konsulting_bull_reverse.html" preload="auto" style="object-fit: cover;">
-<source src="site-images/bg-chc.html" type="video/mp4"/>
+<source src="static/site-images/bg-chc.mp4" type="video/mp4"/>
 </video>
 </div>
 <div class="bg-overlay yuwjw7jjjk" style="opacity: .5 !important; background-color: #112b77 !important;">
@@ -553,7 +556,7 @@
 <div class="container container-fullscreen">
 <div class="text-middle text-center text-light">
 <h1 class="text-uppercase text-lg headng_stef d-font-exempt" style=" font-size: 26px !important; margin-bottom: 0; color: #fff !important">
-       globalbitfare
+       Global Bitfare
       </h1>
 <p class="lead">
 <span style="font-size: 20px; font-weight: bold;
@@ -568,7 +571,7 @@
                             most dynamic and high-performing investments services available.
        </span>
 </p>
-<a class="btn" href='{{route("index")}}'>
+<a class="btn" href='{{route("about")}}'>
        Get Started
       </a>
 </div>
@@ -725,7 +728,7 @@
 <img alt="" src="{{asset('static/img/reviewer2.jpg')}}"/>
 <p>
           I've had incredible customer service since i started investing here, I'm a repeat
-                                    investor. I've been investng with globalbitfare Groups Investments for nearly 3
+                                    investor. I've been investng with Global Bitfare Groups Investments for nearly 3
                                     years now and i've loved every bit of the experience so far.
          </p>
 <span>
@@ -739,7 +742,7 @@
 <img alt="" src="{{asset('static/img/reviewer3.jpg')}}"/>
 <p>
           Transparent, profitable, and reliable bitcoin investment company that will make you
-                                    real money. Thanks to all of you at globalbitfare Group for the excellent
+                                    real money. Thanks to all of you at Global Bitfare Group for the excellent
                                     service.
          </p>
 <span>
@@ -753,7 +756,7 @@
 <img alt="" src="{{asset('static/img/reviewer5.jpg')}}"/>
 <p>
           I have always been searching for an opportunity to earn on bitcoin and finally I
-                                    found globalbitfare Group and they have proven to be very reliable since i've
+                                    found Global Bitfare Group and they have proven to be very reliable since i've
                                     been investing with them.
          </p>
 <span>
@@ -792,7 +795,7 @@
 </div>
 <div class="uk-width-expand">
 <h3 class="tup" style="color: #fff !important">
-          Why globalbitfare?
+          Why Global Bitfare?
          </h3>
 <p style="color: #fff !important">
           Invest with confidence and benefit from the
@@ -927,7 +930,7 @@
         Empowering investors by providing them an avenue for controlling their financial future by
                             providing outstanding service, innovation, and expertise in the custody of alternative and
                             traditional assets.
-                            globalbitfare Group is dedicated to helping investors around the world reach
+                            Global Bitfare Group is dedicated to helping investors around the world reach
                             their desired investment goals and broaden their financial horizons.
 
                             We provide investment products and solutions to our clients across the world. Our
@@ -1009,14 +1012,14 @@
 <div class="row">
 <div class="col-lg-12" data-animate="fadeIn">
          We’re proud to be an asset management company
-                                whose culture is driven by strong values and a long-term vision. At globalbitfare
+                                whose culture is driven by strong values and a long-term vision. At Global Bitfare
                                 Group, our vision, mission
                                 and core values serve as the catalyst in our relations
                                 with our clients, employees, shareholders and in the communities in which we live and
                                 work. They are our guiding compass in our business each day.
          <br/>
 <br/>
-         globalbitfare Group is dedicated to helping investors around the world reach
+         Global Bitfare Group is dedicated to helping investors around the world reach
                                 their desired investment goals and broaden their financial horizons.
          <br/>
 <br/>
@@ -1034,25 +1037,25 @@
                                 performance is not a guide to future results.
          <br/>
 <br/>
-         globalbitfare Group was founded on a simple but revolutionary idea that an
+         Global Bitfare Group was founded on a simple but revolutionary idea that an
                                 investment company
-                                should be run for the sole benefit of its investors. And so globalbitfare Group was
+                                should be run for the sole benefit of its investors. And so Global Bitfare Group was
                                 designed to be
                                 different, removing outside owners and outside interests from the equation. Because of
-                                our investor-owned structure, globalbitfare Group's success can only be measured by
+                                our investor-owned structure, Global Bitfare Group's success can only be measured by
                                 your success.
         </div>
 <div class="col-lg-12" data-animate="fadeIn">
          Low costs, a long-term orientation, and focus
                                 on your goals are at the core of
-                                globalbitfare Group's investing philosophy, and not just because they sound good.
+                                Global Bitfare Group's investing philosophy, and not just because they sound good.
                                 They're essential
                                 to our approach because they're essential to the thing that really matters to you: the
                                 opportunity for investment success. So however you shape your portfolio, you can be sure
                                 that these principles run through everything we do.
          <br/>
 <br/>
-         globalbitfare Group's mission is to help investors reach their goals, and that
+         Global Bitfare Group's mission is to help investors reach their goals, and that
                                 means access to
                                 advice that works for you. Whether through our own advisory services or supporting
                                 financial advisors, we stand firm in our belief that all investors deserve advice that
@@ -1060,7 +1063,7 @@
                                 offerings you need to build your financial future.
          <br/>
 <br/>
-         Strategy matters. globalbitfare Group's approach to managing investments on behalf
+         Strategy matters. Global Bitfare Group's approach to managing investments on behalf
                                 of our clients is
                                 to combine an in-depth appreciation of their unique circumstances and objectives with
                                 the investment capacity of a large-scale institutional investor. That means knowing when
@@ -1075,7 +1078,7 @@
 <section style="padding: 30px">
 <div class="container">
 <div class="tradingview-widget-container" style="width: 100%; height: 450px;">
-<iframe allowtransparency="true" frameborder="0" src="https://www.tradingview-widget.com/embed-widget/crypto-mkt-screener/?locale=en#%7B%22width%22%3A%22100%25%22%2C%22height%22%3A%22450%22%2C%22defaultColumn%22%3A%22overview%22%2C%22screener_type%22%3A%22crypto_mkt%22%2C%22displayCurrency%22%3A%22GBP%22%2C%22colorTheme%22%3A%22light%22%2C%22market%22%3A%22crypto%22%2C%22enableScrolling%22%3Atrue%2C%22utm_source%22%3A%22stockaccesscapital.com%22%2C%22utm_medium%22%3A%22widget%22%2C%22utm_campaign%22%3A%22cryptomktscreener%22%7D" style="box-sizing: border-box; height: 450px; width: 100%;">
+<iframe allowtransparency="true" frameborder="0" src="https://www.tradingview-widget.com/embed-widget/crypto-mkt-screener/?locale=en#%7B%22width%22%3A%22100%25%22%2C%22height%22%3A%22450%22%2C%22defaultColumn%22%3A%22overview%22%2C%22screener_type%22%3A%22crypto_mkt%22%2C%22displayCurrency%22%3A%22GBP%22%2C%22colorTheme%22%3A%22light%22%2C%22market%22%3A%22crypto%22%2C%22enableScrolling%22%3Atrue%2C%22utm_source%22%3A%22Globalbitfarecapital.com%22%2C%22utm_medium%22%3A%22widget%22%2C%22utm_campaign%22%3A%22cryptomktscreener%22%7D" style="box-sizing: border-box; height: 450px; width: 100%;">
 </iframe>
 <style>
        .tradingview-widget-copyright {
@@ -1202,7 +1205,7 @@
 <h5 style="color: #fff!important;">
         Send Us A Message
        </h5>
-<form action="#" id="contactform" method="POST">
+<form action="http://127.0.0.1:8000/" id="contactform" method="POST">
 <input name="_token" type="hidden" value="qyZTimyPMTRLJosD68Nq5UdPYj9vrKtZTg4P0soq"/>
 <div class="mb-3">
 <input class="form-control" name="name" placeholder="Name" required="" type="text"/>
@@ -1247,37 +1250,28 @@
 </div>
 </div>
 <div class="col-md-4">
-<img alt="website logo" height="40" src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html" width="100"/>
+<img alt="website logo" height="40" src="logo.png" width="100"/>
 <h3>
 </h3>
-<div class="contacts">
+<div class="contacts" tyle="text-decoration: none;">
 <p>
-<i class="fas fa-phone-alt">
-</i>
+          Phone: <br/>
+<a href="tel:+" style="text-decoration: none; color: white;">None</a>
 </p>
 <p>
-<i class="fas fa-envelope">
-</i>
+          
+           Email: <br/> <a href='"mailto:support@Globalbitfares"' style="text-decoration: none; color: white;">support@globalbitfare.co</a>
 </p>
 <p>
-<i class="fab fa-facebook">
-</i>
-         @fb/globalbitfare.co
+          
+          
+            Address: <br/> support@globalbitfare.co
+          
+          
         </p>
 <p>
-<i class="fab fa-twitter">
-</i>
-         @tw/globalbitfare.co
-        </p>
-<p>
-<i class="fab fa-instagram-square">
-</i>
-         @ig/globalbitfare.co
-        </p>
-<p>
-<i class="fab fa-linkedin">
-</i>
-         @ln/globalbitfare.co
+         Second Address: support@globalbitfare.co
+          
         </p>
 </div>
 </div>
@@ -1286,7 +1280,7 @@
 </section>
 <div class="container-fluid" id="copyright">
 <p>
-     Copyright © 2021 All Rights Reserved globalbitfare
+     Copyright © 2023 All Rights Reserved Global Bitfare
     </p>
 </div>
 </div>
@@ -1303,5 +1297,5 @@
 <script src="{{asset('static/js/functions.js')}}">
 </script>
 </body>
-<!-- Mirrored from 127.0.0.1:8000/about by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:23:55 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/about by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:34:51 GMT -->
 </html>

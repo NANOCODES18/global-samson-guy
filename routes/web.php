@@ -531,6 +531,7 @@ Route::get('/about', [App\Http\Controllers\VisitorController::class, 'about'])->
 Route::get('/blog', [App\Http\Controllers\VisitorController::class, 'blog'])->name('blog');
 Route::get('/contact', [App\Http\Controllers\VisitorController::class, 'contact'])->name('contact');
 Route::get('/faq', [App\Http\Controllers\VisitorController::class, 'faq'])->name('faq');
+Route::get('/index-2', [App\Http\Controllers\VisitorController::class, 'index-2'])->name('index-2');
 Route::get('/index', [App\Http\Controllers\VisitorController::class, 'index'])->name('index');
 Route::get('/invest', [App\Http\Controllers\VisitorController::class, 'invest'])->name('invest');
 Route::get('/terms', [App\Http\Controllers\VisitorController::class, 'terms'])->name('terms');

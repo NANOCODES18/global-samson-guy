@@ -8,6 +8,9 @@
   <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
   <link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
   <title>{{$title}} | {{$company_features? $company_features->companyname :"No company name set"}}</title>
+
+  <script src="//code.jivosite.com/widget/BZyoHrU7Q8" async></script>
+
   <link href="static/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
    <link href="https://fonts.googleapis.com/" rel="preconnect"/>
    <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
@@ -19,7 +22,7 @@
     <link href="static/css/style.css" rel="stylesheet"/>
     <script src="../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit" type="text/javascript">
     </script>
-     <script src="../code.tidio.co_443/4cihkkybheqskao593ubrnyyzgcofntd.js" async></script>
+    
    </link>
   </link>
  </head>

@@ -334,7 +334,7 @@ button.btn, .uk-button-primary, .btn:not(.close):not(.mfp-close), a.btn:not([hre
 }
 
 .idz-create-account {
-	background: #fff url(http://127.0.0.1:8000/static/img/content_background3.png) no-repeat top right;
+	background: #fff url(img/content_background3.png) no-repeat top right;
 	border-top: 1px solid #eceaea;
 }
 
@@ -380,7 +380,7 @@ ul.uk-list.idz-award-rating li {
 }
 
 .bg-parallax4 {
-	background-image: url(http://127.0.0.1:8000/static/img/content_bg2.jpg);
+	background-image: url(img/content_bg2.jpg);
 	background-repeat: no-repeat;
 	background-position: top right;
 }
@@ -413,14 +413,14 @@ ul.uk-list.idz-award-rating li {
 	position: absolute;
 	top: 0;
 	left: 7px;
-	content: url(http://127.0.0.1:8000/static/img/in-award-left.svg);
+	content: url(img/in-award-left.svg);
 }
 
 .in-profit-8 .in-profit-award:after {
 	position: absolute;
 	top: 0;
 	right: 7px;
-	content: url(http://127.0.0.1:8000/static/img/in-award-right.svg);
+	content: url(img/in-award-right.svg);
 }
 
 .in-profit-8 .in-profit-award {
@@ -499,7 +499,7 @@ ul.uk-list.idz-award-rating li {
 
 section.pricing {
 	background: #007bff;
-	background: linear-gradient(to right, #012c6dc2, #012c6d91), url(http://127.0.0.1:8000/static/site-images/btc3.jpg) no-repeat;
+	background: linear-gradient(to right, #012c6dc2, #012c6d91), url(site-images/btc3.jpg) no-repeat;
 	background-position: center;
 	background-size: cover;
 }

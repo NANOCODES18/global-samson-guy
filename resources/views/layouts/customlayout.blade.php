@@ -163,7 +163,7 @@
        </div>
       </div>
       <div class="col-md-4">
-       <img alt="website logo" height="40" src="media/site_images/diverseclimax_DfgBCAa.html" width="100"/>
+       <img alt="website logo" height="40" src="logo.png" width="100"/>
        <h3>
        </h3>
        <div class="contacts">

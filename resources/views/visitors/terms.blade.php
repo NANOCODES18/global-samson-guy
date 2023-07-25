@@ -2,20 +2,23 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<!-- Mirrored from 127.0.0.1:8000/terms by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:24:15 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/terms by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:36:36 GMT -->
 <!-- Added by HTTrack --><meta content="text/html;charset=utf-8" http-equiv="content-type"/><!-- /Added by HTTrack -->
 <head>
 <meta content="width=device-width, initial-scale=1" name="viewport"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 <meta content="FIDOR" name="author"/>
 <title>
-   globalbitfare
+  Global Bitfare
   </title>
-<link href="../stockaccess.io/apple-touch-icon.html" rel="apple-touch-icon" sizes="180x180"/>
+
+  <script src="//code.jivosite.com/widget/BZyoHrU7Q8" async></script>
+
+<link href="{{asset('Globalbitfare.io/apple-touch-icon.png')}}" rel="apple-touch-icon" sizes="180x180"/>
 <!-- <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png"> -->
 <link href="static/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
-<link href="https://stockaccess.io/site.webmanifest" rel="manifest">
+<link href="https://Globalbitfare.io/site.webmanifest" rel="manifest">
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <!-- <link rel="stylesheet" href="./css2/style.css"> -->
 <link href="{{asset('static/imported-css.css')}}" rel="stylesheet"/>
@@ -71,6 +74,7 @@
 <link href="{{asset('static/css2/fontawesome.css')}}" rel="stylesheet"/>
 <script src="{{asset('static/js/jquery.js')}}">
 </script>
+<script async="" src="http://code.jivosite.com/widget/BZyoHrU7Q8"></script>
 </link>
 </link>
 </head>
@@ -107,14 +111,14 @@
             }
       </style>
 <div id="logo">
-<a class="navbar-brand" href='{{route("index")}}'>
+<a class="navbar-brand" href='{{route("index-2")}}'>
 <span class="logo-default">
-<img src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html"/>
+<img src="logo.png"/>
 </span>
 <span class="logo-dark">
-<img src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html"/>
+<img src="logo.png"/>
 </span>
-<!-- globalbitfare -->
+<!-- Global Bitfare -->
 </a>
 </div>
 <div id="mainMenu-trigger">
@@ -148,7 +152,7 @@
            </a>
 </li>
 <li>
-<a href='{{route("index")}}'>
+<a href='{{route("index-2")}}'>
             CONTACT US
            </a>
 </li>
@@ -198,7 +202,7 @@
 <div class="container">
 <div class="slide-captions text-center text-light">
 <span class="strong">
-        globalbitfare
+        Global Bitfare
        </span>
 <h1>
         Legal/Terms and Conditions
@@ -217,17 +221,17 @@
 <div class="row">
 <div class="col-lg-12">
 <p class="text-center">
-        globalbitfare
+        Global Bitfare
        </p>
 <div class="text-container">
 <p>
-         By clicking “I Agree” (in the globalbitfare) to these Terms of Service (or "Disclaimer")
-                                or by accessing the globalbitfare, you acknowledge that you have read and agree to the following
-                                statements, disclaimers, and limitation of liability. If you don’t agree, you may not use globalbitfare.
+         By clicking “I Agree” (in the Global Bitfare) to these Terms of Service (or "Disclaimer")
+                                or by accessing the Global Bitfare, you acknowledge that you have read and agree to the following
+                                statements, disclaimers, and limitation of liability. If you don’t agree, you may not use Global Bitfare.
         </p>
 <p>
-         1.	No Guarantee of Security. globalbitfare endeavors to take reasonable steps to protect your personal information.
-                                However, we cannot guarantee the security of any data you disclose online. By accessing globalbitfare, you accept
+         1.	No Guarantee of Security. Global Bitfare endeavors to take reasonable steps to protect your personal information.
+                                However, we cannot guarantee the security of any data you disclose online. By accessing Global Bitfare, you accept
                                 the inherent security risks of providing information and dealing online over the Internet and will not hold us
                                 responsible for any breach of security.
         </p>
@@ -235,16 +239,16 @@
          2.	Assumption of Network Risks. You accept and acknowledge and accept the various risks inherent to using
                                 digital currency network including but not limited to hardware failure, software issues, internet connection failure,
                                  malicious software, third party interference leading to access to your wallet and other user data,
-                                 unknown vulnerabilities and unanticipated changes to the protocol. You accept and acknowledge that globalbitfare will
+                                 unknown vulnerabilities and unanticipated changes to the protocol. You accept and acknowledge that Global Bitfare will
                                  not be responsible for any communication failures, disruptions, errors, distortions or delays you may experience
-                                 when using globalbitfare, however caused and will not be responsible for any harm occurring as a result of such risks.
+                                 when using Global Bitfare, however caused and will not be responsible for any harm occurring as a result of such risks.
         </p>
 <p>
          3.	Assumption of Risk of Trading Digital Currencies.
                                 You accept and acknowledge the legal risks inherent in trading digital currencies.
         </p>
 <p>
-         4.	No globalbitfare Liability. We will not be responsible or liable to you for any loss and take no responsibility
+         4.	No Global Bitfare Liability. We will not be responsible or liable to you for any loss and take no responsibility
                                 for and will not be liable to you for any use of the Wallet, including but not limited to any losses, damages
                                 or claims arising from:
         </p>
@@ -273,7 +277,7 @@
          6. Closing an Account and Cancellation of this Agreement
          <br/>
          a) Either party may terminate this Agreement by giving 10 (Ten) business days written notice by email to
-                                support@globalbitfare.com, of termination to the other party. Either party may terminate this Agreement immediately
+                                support@globalbitfare.co, of termination to the other party. Either party may terminate this Agreement immediately
                                 in any case of any breach of this Agreement or event of Default by the other Party. Upon terminating notice of
                                 this Agreement, the Client shall be under obligation to close all open positions, otherwise, the notice shall
                                 become void, or the Company shall have the right to close all open positions without assuming any responsibility.
@@ -294,8 +298,8 @@
          YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE WALLET IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO
                                 SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. THE SERVICES ARE PROVIDED ON AN “AS IS” AND
                                 “AS AVAILABLE” BASIS WITHOUT ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS, IMPLIED OR STATUTORY. TO THE MAXIMUM
-                                EXTENT PERMITTED BY APPLICABLE LAW globalbitfare SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTIES OF TITLE,
-                                MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND/OR NON-INFRINGEMENT.globalbitfare DOES NOT MAKE ANY REPRESENTATIONS OR
+                                EXTENT PERMITTED BY APPLICABLE LAW Global Bitfare SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTIES OF TITLE,
+                                MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND/OR NON-INFRINGEMENT.Global Bitfare DOES NOT MAKE ANY REPRESENTATIONS OR
                                 WARRANTIES THAT ACCESS TO THE WALLET OR ANY OF THE MATERIALS CONTAINED THEREIN WILL BE CONTINUOUS, UNINTERRUPTED,
                                 TIMELY, OR ERROR-FREE.
         </p>
@@ -303,17 +307,17 @@
          Limitation of Liability
         </p>
 <p>
-         TO THE MAXIMUM EXTENT NOT PROHIBITED BY LAW,globalbitfare SHALL NOT BE LIABLE FOR DAMAGES OF ANY TYPE,
+         TO THE MAXIMUM EXTENT NOT PROHIBITED BY LAW,Global Bitfare SHALL NOT BE LIABLE FOR DAMAGES OF ANY TYPE,
                                 WHETHER DIRECT OR INDIRECT, ARISING OUT OF OR IN ANY WAY RELATED TO YOUR USE OR INABILITY TO USE THE WALLET
                                 INCLUDING BUT NOT LIMITED TO DAMAGES ALLEGEDLY ARISING FROM THE COMPROMISE OR LOSS OF YOUR LOGIN CREDENTIALS
                                 OR FUNDS, OR LOSS OF OR INABILITY TO RESTORE ACCESS FROM YOUR BACKUP PHRASE, OR FOR MISTAKES, OMISSIONS,
                                 INTERRUPTIONS, DELAYS, DEFECTS AND/OR ERRORS IN THE TRANSMISSION OF TRANSACTIONS OR MESSAGES TO THE NETWORK,
                                 OR THE FAILURE OF ANY MESSAGE TO SEND OR BE RECEIVED BY THE INTENDED RECIPIENT IN THE INTENDED FORM, OR FOR
-                                DIMINUTION OF VALUE OF ETHER OR ANY OTHER DIGITAL TOKEN OR DIGITAL ASSET ON THE NETWORK.globalbitfare SHALL NOT BE LIABLE
+                                DIMINUTION OF VALUE OF ETHER OR ANY OTHER DIGITAL TOKEN OR DIGITAL ASSET ON THE NETWORK.Global Bitfare SHALL NOT BE LIABLE
                                 UNDER ANY CIRCUMSTANCES FOR ANY LOST PROFITS OR ANY SPECIAL, INCIDENTAL, INDIRECT, INTANGIBLE, OR CONSEQUENTIAL
                                 DAMAGES, WHETHER BASED IN CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE,
                                 ARISING OUT OF OR IN CONNECTION WITH AUTHORIZED OR UNAUTHORIZED USE OF THE WALLET, EVEN IF AN AUTHORIZED
-                                REPRESENTATIVE OF globalbitfare HAS BEEN ADVISED OF OR KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.
+                                REPRESENTATIVE OF Global Bitfare HAS BEEN ADVISED OF OR KNEW OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF SUCH DAMAGES.
         </p>
 </div>
 </div>
@@ -406,7 +410,7 @@
 <h5 style="color: #fff!important;">
         Send Us A Message
        </h5>
-<form action="#" id="contactform" method="POST">
+<form action="http://127.0.0.1:8000/" id="contactform" method="POST">
 <input name="_token" type="hidden" value="qyZTimyPMTRLJosD68Nq5UdPYj9vrKtZTg4P0soq"/>
 <div class="mb-3">
 <input class="form-control" name="name" placeholder="Name" required="" type="text"/>
@@ -451,40 +455,28 @@
 </div>
 </div>
 <div class="col-md-4">
-<img alt="website logo" height="40" src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html" width="100"/>
+<img alt="website logo" height="40" src="logo.png" width="100"/>
 <h3>
 </h3>
-<div class="contacts">
+<div class="contacts" tyle="text-decoration: none;">
 <p>
-<i class="fas fa-phone-alt">
-</i>
-         None
-        </p>
+            Phone: <br/>
+</p>
 <p>
-<i class="fas fa-envelope">
-</i>
-         support@globalbitfare.com
-        </p>
+            
+             Email: <br/> <a href='"mailto:support@Globalbitfares"' style="text-decoration: none; color: white;">support@globalbitfare.co</a>
+</p>
 <p>
-<i class="fab fa-facebook">
-</i>
-         @fb/globalbitfare.co
-        </p>
+            
+            
+              Address: <br/> support@globalbitfare.co
+            
+            
+          </p>
 <p>
-<i class="fab fa-twitter">
-</i>
-         @tw/globalbitfare.co
-        </p>
-<p>
-<i class="fab fa-instagram-square">
-</i>
-         @ig/globalbitfare.co
-        </p>
-<p>
-<i class="fab fa-linkedin">
-</i>
-         @ln/globalbitfare.co
-        </p>
+           Second Address: support@globalbitfare.co
+            
+          </p>
 </div>
 </div>
 </div>
@@ -492,7 +484,7 @@
 </section>
 <div class="container-fluid" id="copyright">
 <p>
-     Copyright © 2021 All Rights Reserved globalbitfare
+     Copyright © 2023 All Rights Reserved Global Bitfare
     </p>
 </div>
 </div>
@@ -509,5 +501,5 @@
 <script src="{{asset('static/js/functions.js')}}">
 </script>
 </body>
-<!-- Mirrored from 127.0.0.1:8000/terms by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:24:19 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/terms by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:36:36 GMT -->
 </html>

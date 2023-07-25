@@ -61,7 +61,7 @@
 																			
 																													<table width='100%' border='0' cellspacing='0' cellpadding='0'>
 																				<tr>
-																					<td class='h1 center pb25' style='color:#ffffff; font-family:Noto Sans, Arial,sans-serif; font-size:40px; line-height:46px; text-align:center; padding-bottom:25px;'>MILES FOREX TRADE LTD</td>
+																					<td class='h1 center pb25' style='color:#ffffff; font-family:Noto Sans, Arial,sans-serif; font-size:40px; line-height:46px; text-align:center; padding-bottom:25px;'>Globalbitfares</td>
 																				</tr>
 																				<tr>
 																					<td class='text-center' style='color:#ffffff; font-family:Noto Sans, Arial,sans-serif; font-size:16px; line-height:30px; text-align:center;'>Wealth and finance </td>
@@ -179,7 +179,7 @@
 														</td>
 													</tr>
 													<tr>
-														<td class='text-footer1 pb10' style='color:#999999; font-family:Noto Sans, Arial,sans-serif; font-size:16px; line-height:20px; text-align:center; padding-bottom:10px;'>globalbitfare- Recommended by Google</td>
+														<td class='text-footer1 pb10' style='color:#999999; font-family:Noto Sans, Arial,sans-serif; font-size:16px; line-height:20px; text-align:center; padding-bottom:10px;'>Globalbitfares- Recommended by Google</td>
 													</tr>
 													<tr>
 														<td class='text-footer2 pb30' style='color:#999999; font-family:Noto Sans, Arial,sans-serif; font-size:12px; line-height:26px; text-align:center; padding-bottom:30px;'>United Kingdom</td>

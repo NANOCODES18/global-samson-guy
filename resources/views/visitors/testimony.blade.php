@@ -2,35 +2,39 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<!-- Mirrored from 127.0.0.1:8000/testimony by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:24:06 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/testimony by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:35:06 GMT -->
 <!-- Added by HTTrack --><meta content="text/html;charset=utf-8" http-equiv="content-type"/><!-- /Added by HTTrack -->
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport"/>
-<link crossorigin="anonymous" href="https//:maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
+<link crossorigin="anonymous" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" rel="stylesheet"/>
 <title>
-   globalbitfare : Testimony
+   Global Bitfare : Testimony
   </title>
+  <script src="//code.jivosite.com/widget/BZyoHrU7Q8" async></script>
+
 <link href="static/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
 <link href="https://fonts.googleapis.com/" rel="preconnect">
 <link crossorigin="" href="https://fonts.gstatic.com/" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@200;300;400;500;600;700;800&amp;display=swap" rel="stylesheet"/>
-<link crossorigin="anonymous" href="{{asset('../cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css')}}" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" referrerpolicy="no-referrer" rel="stylesheet"/>
+<link crossorigin="anonymous" href="cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css')}}" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" referrerpolicy="no-referrer" rel="stylesheet"/>
 <!-- Fontawesome CSS -->
 <link href="{{asset('static/temp/css/fontawesome-all.min.css')}}" rel="stylesheet">
-<script async="" src="{{asset('../code.tidio.co/6qv2y6recg5zixpi5fx3wntcq0d7wkoa.js')}}"></script>
+<script async="" src="https://code.jivosite.com/widget/N1b9zlTbJF">
+</script>
 <link href="{{asset('static/css/style.css')}}" rel="stylesheet"/>
 <script src="../translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit" type="text/javascript">
 </script>
+
 </link>
 </link>
 </head>
 <body>
 <section class="testifront">
 <nav class="navbar navbar-expand-lg sticky-top change" id="navbar">
-<a class="navbar-brand" href='{{route("index")}}'>
-<img alt="" height="42" src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html" style="object-fit: contain;" width="220"/>
-<!-- globalbitfare -->
+<a class="navbar-brand" href='{{route("index-2")}}'>
+<img alt="" height="42" src="logo.png" style="object-fit: contain;" width="220"/>
+<!-- Global Bitfare -->
 </a>
 <button aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarSupportedContent" data-toggle="collapse" type="button">
 <span class="navbar-toggler-icon">
@@ -41,7 +45,7 @@
 <div class="collapse navbar-collapse" id="navbarSupportedContent">
 <ul class="navbar-nav ml-auto">
 <li class="nav-item active">
-<a class="nav-link" href='{{route("index")}}'>
+<a class="nav-link" href='{{route("index-2")}}'>
         HOME
         <span class="sr-only">
          (current)
@@ -131,7 +135,7 @@
                      us to reach our aims. This approach fully integrates life plans and the
                      financial plans and makes very good sense. Jeremy simplifies a complex subject
                      keeping us well informed of the latest changes and adjusting our mindset to suit the current legislation.
-                     globalbitfare investment is very client centred and professional and we would happily recommend their services to others.
+                     Global Bitfare investment is very client centred and professional and we would happily recommend their services to others.
        </p>
 <!-- <br> -->
 <h3 class="card-text" style="font-weight: 600;">
@@ -148,7 +152,7 @@
 <i class="fas fa-quote-left" style="text-align: left;color: purple;">
 </i>
 <p class="card-text">
-        Since investing with globalbitfare,
+        Since investing with Global Bitfare,
                     we have seen gains in our portfolio
                      in a short space of time which is a reassuring indicator. Our meeting are
                       consultative and personal with all decisions made after full discussion and clear explanation.
@@ -181,7 +185,7 @@
 <i class="fas fa-quote-left" style="text-align: left;color: purple;">
 </i>
 <p class="card-text">
-        Wow this is wonderfully, it works like magic. More grace to your elbow globalbitfare and Investment Platform.
+        Wow this is wonderfully, it works like magic. More grace to your elbow Global Bitfare and Investment Platform.
                        You guys are just sweet, thanks so so much for good and excellent service delivery.
        </p>
 <!-- <br> -->
@@ -200,7 +204,7 @@
 </i>
 <p class="card-text">
         I have been into many trading close to 4years now. Many strategy I have tried but all failed.
-                       I got frustrated and was almost calling it quit. Little did I know that a globalbitfare existed and had auto trading....Thanks i stumbled on there facebook advert
+                       I got frustrated and was almost calling it quit. Little did I know that a Global Bitfare existed and had auto trading....Thanks i stumbled on there facebook advert
        </p>
 <!-- <br> -->
 <h3 class="card-text" style="font-weight: 600;">
@@ -243,8 +247,8 @@
 <i class="fas fa-quote-left" style="text-align: left;color: purple;">
 </i>
 <p class="card-text">
-        globalbitfare INVEST is the real deal. I could not believe my eyes when they paid me my returns and through it,
-                       I paid my children's school fees and it also assisted me to take care of my domestic duties. GOD bless you globalbitfare
+        Global Bitfare INVEST is the real deal. I could not believe my eyes when they paid me my returns and through it,
+                       I paid my children's school fees and it also assisted me to take care of my domestic duties. GOD bless you Global Bitfare
        </p>
 <!-- <br> -->
 <h3 class="card-text" style="font-weight: 600;">
@@ -320,7 +324,7 @@
 <h5>
        Send Us A Message
       </h5>
-<form action="#" id="contactform" method="POST">
+<form action="http://127.0.0.1:8000/" id="contactform" method="POST">
 <input name="_token" type="hidden" value="qyZTimyPMTRLJosD68Nq5UdPYj9vrKtZTg4P0soq"/>
 <div class="mb-3">
 <input class="form-control" name="name" placeholder="Name" required="" type="text"/>
@@ -356,47 +360,37 @@
 <a href='{{route("faq")}}'>
         FAQ
        </a>
-<a href='{{route("index")}}'>
+<a href='{{route("login")}}'>
         Login
        </a>
-<a href='{{route("index")}}'>
+<a href='{{route("register")}}'>
         Sign Up
        </a>
 </div>
 </div>
 <div class="col-md-4">
-<img alt="website logo" height="40" src="media/site_images/IMG-20230707-WA0060_j9JT3j4.html" width="100"/>
+<img alt="website logo" height="40" src="logo.png" width="100"/>
 <h3>
 </h3>
-<div class="contacts">
+<div class="contacts" tyle="text-decoration: none;">
 <p>
-<i class="fas fa-phone-alt">
-</i>
+          Phone: <br/>
 </p>
 <p>
-<i class="fas fa-envelope">
-</i>
+          
+           Email: <br/> <a href='"mailto:support@Globalbitfares"' style="text-decoration: none; color: white;">support@globalbitfare.co</a>
 </p>
 <p>
-<i class="fab fa-facebook">
-</i>
-        @fb/globalbitfare.co
-       </p>
+          
+          
+            Address: <br/> support@globalbitfare.co
+          
+          
+        </p>
 <p>
-<i class="fab fa-twitter">
-</i>
-        @tw/globalbitfare.co
-       </p>
-<p>
-<i class="fab fa-instagram-square">
-</i>
-        @ig/globalbitfare.co
-       </p>
-<p>
-<i class="fab fa-linkedin">
-</i>
-        @ln/globalbitfare.co
-       </p>
+         Second Address: support@globalbitfare.co
+          
+        </p>
 </div>
 </div>
 </div>
@@ -404,14 +398,27 @@
 </section>
 <div class="container-fluid" id="copyright">
 <p>
-    Copyright © 2021 All Rights Reserved globalbitfare
+    Copyright © 2023 All Rights Reserved Global Bitfare
    </p>
 </div>
-<script crossorigin="anonymous" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" src="{{asset('../code.jquery.com/jquery-3.2.1.slim.min.js')}}">
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+   var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+    (function(){
+    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+    s1.async=true;
+    s1.src='https://embed.tawk.to/61d87dc7f7cf527e84d0f9d0/1foqqmnhj';
+    s1.charset='UTF-8';
+    s1.setAttribute('crossorigin','*');
+    s0.parentNode.insertBefore(s1,s0);
+    })();
+  </script>
+<!--End of Tawk.to Script-->
+<script crossorigin="anonymous" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" src="code.jquery.com/jquery-3.2.1.slim.min.js')}}">
 </script>
-<script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" src="{{asset('../cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js')}}">
+<script crossorigin="anonymous" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" src="cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js')}}">
 </script>
-<script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" src="{{asset('../maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js')}}">
+<script crossorigin="anonymous" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" src="maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js')}}">
 </script>
 <script src="{{asset('static/js/script.js')}}">
 </script>
@@ -421,5 +428,5 @@
 }
   </script>
 </body>
-<!-- Mirrored from 127.0.0.1:8000/testimony by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 04:24:15 GMT -->
+<!-- Mirrored from 127.0.0.1:8000/testimony by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 23 Jul 2023 22:36:34 GMT -->
 </html>
